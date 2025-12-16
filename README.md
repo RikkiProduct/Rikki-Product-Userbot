@@ -33,7 +33,7 @@ pkg update -y && pkg upgrade -y
 pkg install python git -y
 
 # Клонируем репозиторий
-git clone https://github.com/RikkiProduct/Rikki-Product-Userbot.git
+git clone https://github.com/RikkiProduct/Rikki-Userbot.git
 
 # Заходим в папку
 cd RikkiProductUserbot
